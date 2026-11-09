@@ -9,3 +9,9 @@ max-nested-blocks=2
 [DESIGN]
 max-statements=15
 max-args=4
+
+[MESSAGES CONTROL]
+disable=
+    C0114,
+    C0115,
+    C0116
