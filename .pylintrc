@@ -14,4 +14,7 @@ max-args=4
 disable=
     C0114,
     C0115,
-    C0116
+    C0116,
+    line-too-long,
+    too-many-statements,
+    missing-final-newline
